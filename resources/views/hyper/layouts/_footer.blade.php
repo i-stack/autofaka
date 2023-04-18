@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-6">
             	<div class="footer-links">
-                    Powered by：<a href="https://freelibrary.top">@辰沙资源</a>
+                    友情链接：<a href="https://freelibrary.top">@辰沙资源</a>
                 </div>
             </div>
             <div class="col-md-6">
